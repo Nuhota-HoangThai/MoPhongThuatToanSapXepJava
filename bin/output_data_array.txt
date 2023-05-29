@@ -1,0 +1,15 @@
+
+Mảng trước khi sắp xếp Quick Sort
+arr[0] = 13    
+arr[1] = 41    
+arr[2] = 44    
+arr[3] = 74    
+arr[4] = 4     
+
+Mảng sau khi sắp xếp Quick Sort
+arr[0] = 4     
+arr[1] = 13    
+arr[2] = 41    
+arr[3] = 44    
+arr[4] = 74    
+Thời gian thực hiện: 16ms
